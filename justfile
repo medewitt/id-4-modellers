@@ -1,3 +1,3 @@
 # Knit everything
 all:
-    typst main.typ
+    typst compile main.typ

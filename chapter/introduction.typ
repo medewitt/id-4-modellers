@@ -8,7 +8,7 @@ However, in this manuscript, we would like to go the other direction and provide
 Understand the science of what is being modelled is in many ways just as important as understanding the equations that govern the analysis.
 This goes to everything from compartmental models used to represent pharmacodynamics to building vaccine effectiveness analysis.
 
-@achtmanYersiniaPestisCause1999.
+See more with @achtmanYersiniaPestisCause1999.
 
 #colorbox(
   title: lorem(5),

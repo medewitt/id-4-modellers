@@ -1,6 +1,8 @@
 #import "assets/template.typ": project
 #import "assets/typst-boxes.typ": *
 #import "assets/typst-cd.typ": *
+//#import "assets/index.typ": *
+
 
 #show: project.with(
   title: "Infectious Diseases for Modellers",
@@ -15,7 +17,7 @@
 )
 
 #include "chapter/introduction.typ"
-
+//#show figure.where(kind: "jkrb_index"): it => {}
 #pagebreak()
 
 #include "chapter/host-immune.typ"
