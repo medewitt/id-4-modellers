@@ -1,0 +1,43 @@
+project:
+  type: book
+  output-dir: _book
+  render:
+    - "*.qmd"
+    - "*.Rmd"
+    - "!*.md"
+    - "!README.md"
+    - "!LICENSE.md"
+
+book:
+  title: "Infectious Diseases for Data Scientists"
+  date: today
+  author: 
+  - name: "Michael E. DeWitt"
+    orcid: "0000-0001-8940-1967"
+
+
+  page-navigation: true
+  cover-image: "assets/cholera_in_paris_2002.136.8.jpg"
+  chapters:
+    - index.qmd
+    - introduction.qmd
+
+    - part: chapter/data/data.qmd
+      chapters:
+      - chapter/data/surveillance.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    code-link: true
+    author-meta: "Michael E. DeWitt"
+  typst: default
+
+# Other Formattinging stuff
+callout-icon: false
+
+execute:
+  freeze: auto

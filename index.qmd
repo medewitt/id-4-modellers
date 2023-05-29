@@ -1,0 +1,7 @@
+# Welcome {.unnumbered}
+
+Welcome.
+
+## Acknowledgements {.unnumbered}
+
+Cover art: Cholera in Paris, 1865 by François-Nicolas Chifflart. 
