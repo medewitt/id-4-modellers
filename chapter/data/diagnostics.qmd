@@ -1,0 +1,14 @@
+# Diagnostics {#diagnostics}
+
+How to we know what's there?
+
+Key Terms
+
+* Point of Care Testing
+* NAAT
+* PCR
+* Culture
+* Viral Load
+* Lower Limit of Detection
+* PFU/CFU
+* ELA/ELISA

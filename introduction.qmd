@@ -1,2 +1,11 @@
 # Introduction {#intro .unnumbered}
 
+>Drink deep, or taste not the Pierian spring
+<div style="text-align:right">
+>Alexander Pope in A Little Learning
+</div>
+
+There has been a trend in making texts of "math/modelling/programming" for x, where x represents a discipline from a basic science.
+However, in this manuscript, we would like to go the other direction and provide advanced subject matter on the biological and environmental processes that undergird the mathematics and programming.
+Understand the science of what is being modelled is in many ways just as important as understanding the equations that govern the analysis.
+This goes to everything from compartmental models used to represent pharmacodynamics to building vaccine effectiveness analysis.

@@ -34,7 +34,7 @@ format:
     theme: cosmo
     code-link: true
     author-meta: "Michael E. DeWitt"
-  typst: default
+#  typst: default
 
 # Other Formattinging stuff
 callout-icon: false
