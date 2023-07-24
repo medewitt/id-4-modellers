@@ -22,6 +22,8 @@ These include:
 
 [How the Immune System Works by Lauren M. Sompayrac](https://www.wiley.com/en-us/How+the+Immune+System+Works,+7th+Edition-p-9781119890683)
 
+[Introduction to Epidemiology](https://www.cdc.gov/csels/dsepd/ss1978/lesson1/section10.html)
+
 ### Mathematical modelling
 
 [Introduction to Infectious Disease Modeling by the Center for Communicable Disease Dynamics](https://ccdd.hsph.harvard.edu/introduction-to-infectious-disease-modeling/)
