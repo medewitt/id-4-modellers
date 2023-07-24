@@ -1,6 +1,8 @@
 project:
   type: book
   output-dir: _site
+  resources:
+    - "assets/*"
   render:
     - "*.qmd"
     - "*.Rmd"
@@ -34,7 +36,16 @@ format:
     theme: cosmo
     code-link: true
     author-meta: "Michael E. DeWitt"
+  pdf:
+    documentclass: scrreprt
+  epub:
+    toc: true
+    lang:
+      en-GB
+    date:
+      "2023-07-24"
 #  typst: default
+
 
 # Other Formattinging stuff
 callout-icon: false
