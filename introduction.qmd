@@ -9,3 +9,30 @@ There has been a trend in making texts of "math/modelling/programming" for x, wh
 However, in this manuscript, we would like to go the other direction and provide advanced subject matter on the biological and environmental processes that undergird the mathematics and programming.
 Understand the science of what is being modelled is in many ways just as important as understanding the equations that govern the analysis.
 This goes to everything from compartmental models used to represent pharmacodynamics to building vaccine effectiveness analysis.
+
+
+## Ground we cannot cover
+
+The field of infectious diseases and mathematical epidemiology is immense.
+As such, no effort is made to try and capture all of the entirity of the field in the resource.
+That being said there are exceptional resources available on may of the topics that are briefly addressed here.
+These include:
+
+### Biology of human immune system
+
+[How the Immune System Works by Lauren M. Sompayrac](https://www.wiley.com/en-us/How+the+Immune+System+Works,+7th+Edition-p-9781119890683)
+
+### Mathematical modelling
+
+[Introduction to Infectious Disease Modeling by the Center for Communicable Disease Dynamics](https://ccdd.hsph.harvard.edu/introduction-to-infectious-disease-modeling/)
+
+[The Mathematics and Statistics of Infectious Disease Outbreaks by Tom Britton and Michael Hohle](https://mhoehle.github.io/blog/2020/11/20/infepi.html)
+
+### Genomics, phylodynamics and more
+
+### Programming
+
+[ReCoDE by Imperial College](https://imperialcollegelondon.github.io/ReCoDE-home/about/#recode-exemplars)
+
+[CEIRR Computational Modeling Core](https://www.ceirrcmc.org/)
+
