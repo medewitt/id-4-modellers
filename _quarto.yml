@@ -27,6 +27,8 @@ book:
     - part: chapter/data/data.qmd
       chapters:
       - chapter/data/surveillance.qmd
+    - part: chapter/lab/methods.qmd
+      - chapter/lab/immunochemistry.qmd
     - references.qmd
 
 bibliography: references.bib
