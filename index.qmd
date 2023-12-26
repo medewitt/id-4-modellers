@@ -1,6 +1,11 @@
 # Welcome {.unnumbered}
 
-Welcome.
+The field of infectious diseases is highly multidisciplinary as many applied fields tend to be.
+Studying infectious diseases involves to varying degrees different understanding ecology, molecular biology, human behaviour, immunology, virology, bacteriology, mycology, population biology, and a wide array of mathematics (from stochastic branching processes, ordinary differential equations, time series analysis, spatial approaches).
+As applied fields go, working infectious diseases means you will likely be on a team of experiements.
+Quantative approaches towards infectious diseases then means that a basic understanding of a variety of these fields is helpful for teasing out the insights that can be captured through modelling, what details while important can be left out, and participate in conversations.
+
+
 
 ## Acknowledgements {.unnumbered}
 
