@@ -1,0 +1,3 @@
+# Branching Processes
+
+Branching processes appear frequently in infectious diseases.
